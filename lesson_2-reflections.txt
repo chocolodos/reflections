@@ -1,0 +1,5 @@
+LOL, finally installed sublime editor and open it from terminal
+
+What am i reflecting on? The power of using Git to organize version?
+
+I mean, not needing to deal with version control manually is a huge plus. Avoiding going through thousands of code is a plus plus. END
